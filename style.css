@@ -1,0 +1,16 @@
+* { 
+    background-color: rgb(230, 230, 126);
+}
+
+.header{ 
+    padding: 100px;
+    background-image: url(https://www.wric.com/wp-content/uploads/sites/74/2021/02/rmcs.png?w=876&h=493&crop=1);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+.mainTitle { 
+    color: rgb(226, 53, 53);
+}
